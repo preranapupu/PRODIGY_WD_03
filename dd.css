@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    border:0;
+    border:0ch;
+    font-family: sans-serif;
+}
+.container{
+    width: 400px;
+    height: min-content;
+    border-radius: 12px;
+    padding: 28px;
+    align-content:flex-end ;
+}
+.picture{
+    
+    align-items:flex;
+    justify-content:center;
+}
